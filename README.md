@@ -4,7 +4,7 @@ ReadLater
 [ADD TO CHROME](https://chrome.google.com/webstore/detail/read-later/nplngmgdacdfncdkpdomipkehfnbinfa)
 ------------------------------------------------------------------------------------------------------
 
-![Version 2.0.1 Screenshot](https://github.com/gagangm/ReadLater/images/Screenshot_2_0_1.JPG)
+![Version 2.0.1 Screenshot](https://github.com/gagangm/ReadLater/blob/master/images/Screenshot_2_0_1.JPG)
 Change Log:
 -----------
 
